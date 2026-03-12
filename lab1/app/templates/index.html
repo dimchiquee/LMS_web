@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css')}}">
+    <title>Dataset</title>
+</head>
+<body>
+<h1>Таблицы БД</h1>
+
+<h2>Предметы</h2>
+<table>
+<tr>
+{% for col in weapon_columns %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in weapons %}
+<tr>
+{% for col in weapon_columns %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h2>Редкости</h2>
+<table>
+<tr>
+{% for col in weapon_rarities %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in rarities %}
+<tr>
+{% for col in weapon_rarities %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h2>Коллекции</h2>
+<table>
+<tr>
+{% for col in weapon_cases %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in cases %}
+<tr>
+{% for col in weapon_cases %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h2>Расцветки</h2>
+<table>
+<tr>
+{% for col in weapon_skins %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in skins %}
+<tr>
+{% for col in weapon_skins %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h2>Цены на предметы</h2>
+<table>
+<tr>
+{% for col in weapon_prices %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in prices %}
+<tr>
+{% for col in weapon_prices %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<hr>
+
+<h1>Результаты выполнения запросов</h1>
+
+<h2>Предметы с редкостью 'Covert Rifle' отсортированные по цене</h2>
+<table>
+<tr>
+<th>Skin</th>
+<th>Weapon</th>
+<th>Price</th>
+</tr>
+{% for row in q1 %}
+<tr>
+<td>{{ row[0] }}</td>
+<td>{{ row[1] }}</td>
+<td>{{ row[2] }}</td>
+</tr>
+{% endfor %}
+</table>
+
+
+<h2>Разница между ценой предмета и средней ценой предметов в этой коллекции</h2>
+<table>
+<tr>
+<th>Skin</th>
+<th>Case</th>
+<th>Price</th>
+<th>Price difference</th>
+</tr>
+{% for row in q2 %}
+<tr>
+<td>{{ row[0] }}</td>
+<td>{{ row[1] }}</td>
+<td>{{ row[2] }}</td>
+<td>{{ row[3] }}</td>
+</tr>
+{% endfor %}
+</table>
+
+
+<h2>Средняя цена предмета в коллекции</h2>
+<table>
+<tr>
+<th>Case</th>
+<th>Average price</th>
+</tr>
+{% for row in q3 %}
+<tr>
+<td>{{ row[0] }}</td>
+<td>{{ row[1] }}</td>
+</tr>
+{% endfor %}
+</table>
+
+
+<h2>Коллекции, где средняя цена больше 10</h2>
+<table>
+<tr>
+<th>Case</th>
+<th>Average price</th>
+</tr>
+{% for row in q4 %}
+<tr>
+<td>{{ row[0] }}</td>
+<td>{{ row[1] }}</td>
+</tr>
+{% endfor %}
+</table>
+
+
+<h2>Предметы дороже средней цены на них</h2>
+<table>
+<tr>
+<th>Skin</th>
+<th>Price</th>
+</tr>
+{% for row in q5 %}
+<tr>
+<td>{{ row[0] }}</td>
+<td>{{ row[1] }}</td>
+</tr>
+{% endfor %}
+</table>
+
+</body>
+</html>
