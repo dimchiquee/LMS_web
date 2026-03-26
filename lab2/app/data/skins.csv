@@ -1,0 +1,614 @@
+Weapon,Skin,Rarity,Case,Price
+CZ75-Auto,Victoria,Covert Pistol,CS:GO Weapon Case 3,5.24
+CZ75-Auto,Xiangliu,Classified Pistol,Spectrum Case,8.32
+CZ75-Auto,Yellow Jacket,Classified Pistol,Falchion Case,4.37
+CZ75-Auto,The Fuschia Is Now,Classified Pistol,CS:GO Weapon Case 3,23.05
+CZ75-Auto,Eco,Restricted Pistol,Horizon Case,0.8
+CZ75-Auto,Tacticat,Restricted Pistol,Spectrum 2 Case,0.36
+CZ75-Auto,Red Astor,Restricted Pistol,Chroma 3 Case,0.34
+CZ75-Auto,Pole Position,Restricted Pistol,Chroma 2 Case,0.34
+CZ75-Auto,Tigris,Restricted Pistol,Operation Breakout Weapon Case,0.53
+CZ75-Auto,Tread Plate,Restricted Pistol,CS:GO Weapon Case 3,7.42
+CZ75-Auto,Circaetus,Mil-Spec Pistol,Snakebite Case,0.09
+CZ75-Auto,Vendetta,Mil-Spec Pistol,Operation Broken Fang Case,0.55
+CZ75-Auto,Distressed,Mil-Spec Pistol,Prisma 2 Case,0.07
+CZ75-Auto,Polymer,Mil-Spec Pistol,Glove Case,0.1
+CZ75-Auto,Imprint,Mil-Spec Pistol,Gamma 2 Case,0.1
+CZ75-Auto,Hexane,Mil-Spec Pistol,eSports 2014 Summer Case,2.2
+CZ75-Auto,Twist,Mil-Spec Pistol,Huntsman Weapon Case,2.87
+CZ75-Auto,Poison Dart,Mil-Spec Pistol,The Huntsman Collection,2.9
+CZ75-Auto,Crimson Web,Mil-Spec Pistol,CS:GO Weapon Case 3,1.49
+Desert Eagle,Ocean Drive,Covert Pistol,Operation Riptide Case,20.37
+Desert Eagle,Printstream,Covert Pistol,Fracture Case,39.16
+Desert Eagle,Code Red,Covert Pistol,Horizon Case,23.01
+Desert Eagle,Golden Koi,Covert Pistol,Operation Bravo Case,1.34
+Desert Eagle,Mecha Industries,Classified Pistol,Danger Zone Case,4.04
+Desert Eagle,Kumicho Dragon,Classified Pistol,Operation Wildfire Case,15.44
+Desert Eagle,Conspiracy,Classified Pistol,Operation Breakout Weapon Case,5.44
+Desert Eagle,Cobalt Disruption,Classified Pistol,eSports 2013 Winter Case,67.91
+Desert Eagle,Hypnotic,Classified Pistol,CS:GO Weapon Case,1.34
+Desert Eagle,Trigger Discipline,Restricted Pistol,Snakebite Case,0.39
+Desert Eagle,Light Rail,Restricted Pistol,Prisma Case,0.6
+Desert Eagle,Directive,Restricted Pistol,Gamma 2 Case,0.31
+Desert Eagle,Naga,Restricted Pistol,Chroma Case,1.43
+Desert Eagle,Crimson Web,Restricted Pistol,eSports 2014 Summer Case,7.49
+Desert Eagle,Heirloom,Restricted Pistol,CS:GO Weapon Case 3,6.01
+Desert Eagle,Blue Ply,Mil-Spec Pistol,Prisma 2 Case,0.13
+Desert Eagle,Oxide Blaze,Mil-Spec Pistol,Spectrum Case,0.2
+Desert Eagle,Corinthian,Mil-Spec Pistol,Revolver Case,0.23
+Desert Eagle,Bronze Deco,Mil-Spec Pistol,Chroma 2 Case,0.16
+Dual Berettas,Melondrama,Classified Pistol,Dreams & Nightmares Case,1.5
+Dual Berettas,Cobra Strike,Classified Pistol,Operation Hydra Case,46.0
+Dual Berettas,Flora Carnivora,Restricted Pistol,Recoil Case,0.54
+Dual Berettas,Dezastre,Restricted Pistol,Operation Broken Fang Case,2.81
+Dual Berettas,Royal Consorts,Restricted Pistol,Glove Case,0.43
+Dual Berettas,Urban Shock,Restricted Pistol,Chroma Case,1.38
+Dual Berettas,Marina,Restricted Pistol,Winter Offensive Weapon Case,5.01
+Dual Berettas,Hemoglobin,Restricted Pistol,CS:GO Weapon Case 2,11.07
+Dual Berettas,Tread,Mil-Spec Pistol,Operation Riptide Case,0.66
+Dual Berettas,Balance,Mil-Spec Pistol,Shattered Web Case,1.11
+Dual Berettas,Elite 1.6,Mil-Spec Pistol,CS20 Case,0.15
+Dual Berettas,Shred,Mil-Spec Pistol,Horizon Case,0.14
+Dual Berettas,Ventilators,Mil-Spec Pistol,Chroma 3 Case,0.08
+Dual Berettas,Cartel,Mil-Spec Pistol,Operation Wildfire Case,0.61
+Dual Berettas,Dualing Dragons,Mil-Spec Pistol,Shadow Case,0.24
+Dual Berettas,Retribution,Mil-Spec Pistol,The Huntsman Collection,4.86
+Dual Berettas,Panther,Mil-Spec Pistol,CS:GO Weapon Case 3,2.14
+Dual Berettas,Black Limba,Mil-Spec Pistol,Operation Bravo Case,7.31
+Five-SeveN,Angry Mob,Covert Pistol,Prisma Case,2.99
+Five-SeveN,Hyper Beast,Covert Pistol,Operation Hydra Case,32.75
+Five-SeveN,Fairy Tale,Classified Pistol,Operation Broken Fang Case,17.45
+Five-SeveN,Monkey Business,Classified Pistol,Chroma 2 Case,2.73
+Five-SeveN,Fowl Play,Classified Pistol,Operation Breakout Weapon Case,2.54
+Five-SeveN,Boost Protocol,Restricted Pistol,Operation Riptide Case,1.34
+Five-SeveN,Buddy,Restricted Pistol,CS20 Case,0.69
+Five-SeveN,Triumvirate,Restricted Pistol,Operation Wildfire Case,2.22
+Five-SeveN,Retrobution,Restricted Pistol,Revolver Case,0.77
+Five-SeveN,Copper Galaxy,Restricted Pistol,CS:GO Weapon Case 3,10.18
+Five-SeveN,Case Hardened,Restricted Pistol,CS:GO Weapon Case 2,13.28
+Five-SeveN,Scrawl,Mil-Spec Pistol,Dreams & Nightmares Case,0.07
+Five-SeveN,Flame Test,Mil-Spec Pistol,Clutch Case,0.07
+Five-SeveN,Capillary,Mil-Spec Pistol,Spectrum Case,0.18
+Five-SeveN,Scumbria,Mil-Spec Pistol,Gamma 2 Case,0.09
+Five-SeveN,Violent Daimyo,Mil-Spec Pistol,Gamma Case,0.11
+Five-SeveN,Urban Hazard,Mil-Spec Pistol,Operation Vanguard Weapon Case,0.64
+Five-SeveN,Nightshade,Mil-Spec Pistol,eSports 2013 Winter Case,1.29
+Five-SeveN,Kami,Mil-Spec Pistol,Winter Offensive Weapon Case,0.99
+Glock-18,Neo-Noir,Covert Pistol,Operation Broken Fang Case,10.94
+Glock-18,Bullet Queen,Covert Pistol,Prisma 2 Case,7.31
+Glock-18,Wasteland Rebel,Covert Pistol,Gamma Case,4.25
+Glock-18,Snack Attack,Classified Pistol,Operation Riptide Case,3.86
+Glock-18,Vogue,Classified Pistol,Fracture Case,3.02
+Glock-18,Water Elemental,Classified Pistol,Operation Breakout Weapon Case,4.17
+Glock-18,Umbral Rabbit,Restricted Pistol,Revolution Case,0.36
+Glock-18,Moonrise,Restricted Pistol,Clutch Case,0.31
+Glock-18,Weasel,Restricted Pistol,Gamma 2 Case,0.3
+Glock-18,Royal Legion,Restricted Pistol,Operation Wildfire Case,2.53
+Glock-18,Grinder,Restricted Pistol,Operation Vanguard Weapon Case,1.9
+Glock-18,Steel Disruption,Restricted Pistol,eSports 2014 Summer Case,5.14
+Glock-18,Dragon Tattoo,Restricted Pistol,CS:GO Weapon Case,1.34
+Glock-18,Winterized,Mil-Spec Pistol,Recoil Case,0.08
+Glock-18,Clear Polymer,Mil-Spec Pistol,Snakebite Case,0.09
+Glock-18,Sacrifice,Mil-Spec Pistol,CS20 Case,0.16
+Glock-18,Oxide Blaze,Mil-Spec Pistol,Danger Zone Case,0.08
+Glock-18,Warhawk,Mil-Spec Pistol,Horizon Case,0.18
+Glock-18,Off World,Mil-Spec Pistol,Spectrum 2 Case,0.09
+Glock-18,Ironwork,Mil-Spec Pistol,Glove Case,0.12
+Glock-18,Wraiths,Mil-Spec Pistol,Shadow Case,0.13
+Glock-18,Bunsen Burner,Mil-Spec Pistol,Falchion Case,0.21
+Glock-18,Catacombs,Mil-Spec Pistol,Chroma Case,0.19
+Glock-18,Blue Fissure,Mil-Spec Pistol,CS:GO Weapon Case 3,1.65
+P2000,Fire Elemental,Covert Pistol,Operation Vanguard Weapon Case,12.89
+P2000,Wicked Sick,Classified Pistol,Revolution Case,3.02
+P2000,Imperial Dragon,Classified Pistol,Gamma Case,3.0
+P2000,Corticera,Classified Pistol,eSports 2014 Summer Case,7.42
+P2000,Ocean Foam,Classified Pistol,Operation Bravo Case,1.34
+P2000,Acid Etched,Restricted Pistol,Prisma 2 Case,0.38
+P2000,Obsidian,Restricted Pistol,Shattered Web Case,2.0
+P2000,Woodsman,Restricted Pistol,Operation Hydra Case,7.15
+P2000,Handgun,Restricted Pistol,Falchion Case,0.73
+P2000,Lifted Spirits,Mil-Spec Pistol,Dreams & Nightmares Case,0.08
+P2000,Gnarled,Mil-Spec Pistol,Fracture Case,0.07
+P2000,Urban Hazard,Mil-Spec Pistol,Clutch Case,0.07
+P2000,Turf,Mil-Spec Pistol,Glove Case,0.11
+P2000,Oceanic,Mil-Spec Pistol,Chroma 3 Case,0.08
+P2000,Imperial,Mil-Spec Pistol,Revolver Case,0.15
+P2000,Ivory,Mil-Spec Pistol,Operation Breakout Weapon Case,0.09
+P2000,Pulse,Mil-Spec Pistol,Huntsman Weapon Case,2.72
+P2000,Red FragCam,Mil-Spec Pistol,CS:GO Weapon Case 3,1.61
+P250,See Ya Later,Covert Pistol,Spectrum 2 Case,2.72
+P250,Visions,Classified Pistol,Recoil Case,3.07
+P250,Asiimov,Classified Pistol,Chroma 3 Case,3.05
+P250,Muertos,Classified Pistol,Chroma Case,4.4
+P250,Cartel,Classified Pistol,Operation Vanguard Weapon Case,5.13
+P250,Undertow,Classified Pistol,CS:GO Weapon Case 3,56.29
+P250,Mehndi,Classified Pistol,Winter Offensive Weapon Case,12.01
+P250,Cyber Shell,Restricted Pistol,Snakebite Case,0.23
+P250,Inferno,Restricted Pistol,CS20 Case,0.71
+P250,X-Ray,Restricted Pistol,X-Ray P250 Package,0.25
+P250,Nevermore,Restricted Pistol,Danger Zone Case,0.55
+P250,Red Rock,Restricted Pistol,Operation Hydra Case,7.27
+P250,Wingshot,Restricted Pistol,Shadow Case,1.27
+P250,Supernova,Restricted Pistol,Operation Breakout Weapon Case,0.58
+P250,Splash,Restricted Pistol,eSports 2013 Case,29.49
+P250,Re.built,Mil-Spec Pistol,Revolution Case,0.08
+P250,Contaminant,Mil-Spec Pistol,Operation Broken Fang Case,0.58
+P250,Cassette,Mil-Spec Pistol,Fracture Case,0.07
+P250,Verdigris,Mil-Spec Pistol,Prisma Case,0.13
+P250,Ripple,Mil-Spec Pistol,Spectrum Case,0.19
+P250,Iron Clad,Mil-Spec Pistol,Gamma Case,0.1
+P250,Valence,Mil-Spec Pistol,Chroma 2 Case,0.09
+P250,Steel Disruption,Mil-Spec Pistol,eSports 2013 Winter Case,1.76
+P250,Hive,Mil-Spec Pistol,CS:GO Weapon Case 2,5.47
+R8 Revolver,Fade,Covert Pistol,Revolver Case,6.13
+R8 Revolver,Skull Crusher,Classified Pistol,Prisma Case,1.53
+R8 Revolver,Llama Cannon,Classified Pistol,Spectrum 2 Case,2.47
+R8 Revolver,Banana Cannon,Restricted Pistol,Revolution Case,0.34
+R8 Revolver,Crazy 8,Restricted Pistol,Recoil Case,0.53
+R8 Revolver,Reboot,Restricted Pistol,Gamma Case,0.46
+R8 Revolver,Junk Yard,Mil-Spec Pistol,Snakebite Case,0.11
+R8 Revolver,Bone Forged,Mil-Spec Pistol,Prisma 2 Case,0.07
+R8 Revolver,Memento,Mil-Spec Pistol,Shattered Web Case,1.09
+R8 Revolver,Survivalist,Mil-Spec Pistol,Horizon Case,0.13
+R8 Revolver,Grip,Mil-Spec Pistol,Clutch Case,0.07
+R8 Revolver,Crimson Web,Mil-Spec Pistol,Revolver Case,0.09
+Tec-9,Decimator,Classified Pistol,Shattered Web Case,10.48
+Tec-9,Fuel Injector,Classified Pistol,Gamma 2 Case,2.44
+Tec-9,Brother,Restricted Pistol,Fracture Case,0.37
+Tec-9,Bamboozle,Restricted Pistol,Prisma Case,0.25
+Tec-9,Re-Entry,Restricted Pistol,Chroma 3 Case,0.37
+Tec-9,Avalanche,Restricted Pistol,Revolver Case,0.93
+Tec-9,Titanium Bit,Restricted Pistol,CS:GO Weapon Case 3,6.99
+Tec-9,Rebel,Mil-Spec Pistol,Revolution Case,0.08
+Tec-9,Flash Out,Mil-Spec Pistol,CS20 Case,0.16
+Tec-9,Fubar,Mil-Spec Pistol,Danger Zone Case,0.08
+Tec-9,Snek-9,Mil-Spec Pistol,Horizon Case,0.14
+Tec-9,Cracked Opal,Mil-Spec Pistol,Spectrum 2 Case,0.09
+Tec-9,Cut Out,Mil-Spec Pistol,Operation Hydra Case,3.27
+Tec-9,Ice Cap,Mil-Spec Pistol,Gamma Case,0.11
+Tec-9,Jambiya,Mil-Spec Pistol,Operation Wildfire Case,0.55
+Tec-9,Isaac,Mil-Spec Pistol,Huntsman Weapon Case,3.0
+Tec-9,Sandstorm,Mil-Spec Pistol,Operation Phoenix Weapon Case,0.28
+Tec-9,Blue Titanium,Mil-Spec Pistol,CS:GO Weapon Case 2,1.34
+USP-S,Printstream,Covert Pistol,Recoil Case,39.23
+USP-S,The Traitor,Covert Pistol,Snakebite Case,12.58
+USP-S,Neo-Noir,Covert Pistol,Spectrum Case,15.7
+USP-S,Kill Confirmed,Covert Pistol,Shadow Case,49.71
+USP-S,Monster Mashup,Classified Pistol,Operation Broken Fang Case,17.28
+USP-S,Cortex,Classified Pistol,Clutch Case,2.01
+USP-S,Caiman,Classified Pistol,Huntsman Weapon Case,40.19
+USP-S,Orion,Classified Pistol,The Huntsman Collection,51.33
+USP-S,Serum,Classified Pistol,CS:GO Weapon Case 2,40.78
+USP-S,Ticket to Hell,Restricted Pistol,Dreams & Nightmares Case,0.29
+USP-S,Flashback,Restricted Pistol,Danger Zone Case,0.48
+USP-S,Cyrex,Restricted Pistol,Glove Case,1.08
+USP-S,Guardian,Restricted Pistol,Operation Phoenix Weapon Case,2.56
+USP-S,Overgrowth,Restricted Pistol,Operation Bravo Case,26.4
+USP-S,Dark Water,Restricted Pistol,CS:GO Weapon Case,71.0
+USP-S,Black Lotus,Mil-Spec Pistol,Operation Riptide Case,0.82
+USP-S,Blueprint,Mil-Spec Pistol,Operation Hydra Case,4.91
+USP-S,Lead Conduit,Mil-Spec Pistol,Operation Wildfire Case,0.57
+USP-S,Torque,Mil-Spec Pistol,Falchion Case,0.6
+USP-S,Blood Tiger,Mil-Spec Pistol,eSports 2014 Summer Case,1.95
+USP-S,Stainless,Mil-Spec Pistol,CS:GO Weapon Case 3,3.79
+MAC-10,Stalker,Covert SMG,Shattered Web Case,14.29
+MAC-10,Neon Rider,Covert SMG,Chroma 2 Case,6.55
+MAC-10,Toybox,Classified SMG,Operation Riptide Case,3.86
+MAC-10,Disco Tech,Classified SMG,Prisma 2 Case,2.55
+MAC-10,Sakkaku,Restricted SMG,Revolution Case,1.18
+MAC-10,Button Masher,Restricted SMG,Snakebite Case,0.24
+MAC-10,Allure,Restricted SMG,Fracture Case,0.37
+MAC-10,Pipe Down,Restricted SMG,Danger Zone Case,0.48
+MAC-10,Last Dive,Restricted SMG,Spectrum Case,1.51
+MAC-10,Malachite,Restricted SMG,Chroma Case,1.34
+MAC-10,Tatter,Restricted SMG,Huntsman Weapon Case,7.76
+MAC-10,Curse,Restricted SMG,The Huntsman Collection,8.19
+MAC-10,Heat,Restricted SMG,Operation Phoenix Weapon Case,2.3
+MAC-10,Graven,Restricted SMG,Operation Bravo Case,27.39
+MAC-10,Monkeyflage,Mil-Spec SMG,Recoil Case,0.08
+MAC-10,Ensnared,Mil-Spec SMG,Dreams & Nightmares Case,0.07
+MAC-10,Classic Crate,Mil-Spec SMG,CS20 Case,0.15
+MAC-10,Whitefish,Mil-Spec SMG,Prisma Case,0.13
+MAC-10,Oceanic,Mil-Spec SMG,Spectrum 2 Case,0.09
+MAC-10,Aloha,Mil-Spec SMG,Operation Hydra Case,3.64
+MAC-10,Carnivore,Mil-Spec SMG,Gamma Case,0.12
+MAC-10,Lapis Gator,Mil-Spec SMG,Operation Wildfire Case,0.61
+MAC-10,Rangeen,Mil-Spec SMG,Shadow Case,0.16
+MAC-10,Ultraviolet,Mil-Spec SMG,eSports 2014 Summer Case,1.96
+MP5-SD,Phosphor,Classified SMG,Danger Zone Case,3.26
+MP5-SD,Kitbash,Restricted SMG,Fracture Case,0.42
+MP5-SD,Agent,Restricted SMG,CS20 Case,0.65
+MP5-SD,Gauss,Restricted SMG,Prisma Case,0.26
+MP5-SD,Liquidation,Mil-Spec SMG,Revolution Case,0.09
+MP5-SD,Necro Jr.,Mil-Spec SMG,Dreams & Nightmares Case,0.07
+MP5-SD,Condition Zero,Mil-Spec SMG,Operation Broken Fang Case,0.52
+MP5-SD,Desert Strike,Mil-Spec SMG,Prisma 2 Case,0.08
+MP5-SD,Acid Wash,Mil-Spec SMG,Shattered Web Case,1.07
+MP7,Bloodsport,Covert SMG,Clutch Case,1.39
+MP7,Abyssal Apparition,Classified SMG,Dreams & Nightmares Case,1.49
+MP7,Nemesis,Classified SMG,Falchion Case,5.57
+MP7,Neon Ply,Restricted SMG,Shattered Web Case,1.9
+MP7,Powercore,Restricted SMG,Horizon Case,0.8
+MP7,Impire,Restricted SMG,Operation Wildfire Case,2.3
+MP7,Special Delivery,Restricted SMG,Shadow Case,1.26
+MP7,Ocean Foam,Restricted SMG,eSports 2014 Summer Case,1.34
+MP7,Guerrilla,Mil-Spec SMG,Operation Riptide Case,0.37
+MP7,Mischief,Mil-Spec SMG,Prisma Case,0.14
+MP7,Akoben,Mil-Spec SMG,Spectrum Case,0.18
+MP7,Cirrus,Mil-Spec SMG,Glove Case,0.1
+MP7,Armor Core,Mil-Spec SMG,Chroma 2 Case,0.09
+MP7,Urban Hazard,Mil-Spec SMG,Operation Breakout Weapon Case,0.08
+MP7,Skulls,Mil-Spec SMG,CS:GO Weapon Case,19.98
+MP9,Starlight Protector,Covert SMG,Dreams & Nightmares Case,3.83
+MP9,Food Chain,Classified SMG,Snakebite Case,1.63
+MP9,Hydra,Classified SMG,CS20 Case,5.26
+MP9,Airlock,Classified SMG,Gamma 2 Case,1.79
+MP9,Mount Fuji,Restricted SMG,Operation Riptide Case,2.73
+MP9,Goo,Restricted SMG,Spectrum 2 Case,0.4
+MP9,Ruby Poison Dart,Restricted SMG,Falchion Case,0.8
+MP9,Rose Iron,Restricted SMG,Winter Offensive Weapon Case,6.5
+MP9,Hypnotic,Restricted SMG,CS:GO Weapon Case 2,1.34
+MP9,Featherweight,Mil-Spec SMG,Revolution Case,0.08
+MP9,Modest Threat,Mil-Spec SMG,Danger Zone Case,0.08
+MP9,Capillary,Mil-Spec SMG,Horizon Case,0.15
+MP9,Black Sand,Mil-Spec SMG,Clutch Case,0.07
+MP9,Sand Scale,Mil-Spec SMG,Glove Case,0.1
+MP9,Bioleak,Mil-Spec SMG,Chroma 3 Case,0.09
+MP9,Deadly Poison,Mil-Spec SMG,Chroma Case,0.2
+MP9,Dart,Mil-Spec SMG,Operation Vanguard Weapon Case,0.46
+PP-Bizon,Judgement of Anubis,Covert SMG,Chroma 3 Case,5.37
+PP-Bizon,High Roller,Classified SMG,Spectrum 2 Case,2.53
+PP-Bizon,Space Cat,Restricted SMG,Dreams & Nightmares Case,0.21
+PP-Bizon,Embargo,Restricted SMG,Shattered Web Case,1.97
+PP-Bizon,Fuel Rod,Restricted SMG,Revolver Case,0.77
+PP-Bizon,Blue Streak,Restricted SMG,eSports 2014 Summer Case,1.69
+PP-Bizon,Osiris,Restricted SMG,Operation Breakout Weapon Case,0.57
+PP-Bizon,Antique,Restricted SMG,Huntsman Weapon Case,7.7
+PP-Bizon,Lumen,Mil-Spec SMG,Operation Riptide Case,0.4
+PP-Bizon,Runic,Mil-Spec SMG,Fracture Case,0.07
+PP-Bizon,Night Riot,Mil-Spec SMG,Clutch Case,0.07
+PP-Bizon,Jungle Slipstream,Mil-Spec SMG,Spectrum Case,0.19
+PP-Bizon,Harvester,Mil-Spec SMG,Gamma Case,0.11
+PP-Bizon,Photic Zone,Mil-Spec SMG,Operation Wildfire Case,0.62
+PP-Bizon,Water Sigil,Mil-Spec SMG,eSports 2013 Winter Case,1.38
+PP-Bizon,Cobalt Halftone,Mil-Spec SMG,Winter Offensive Weapon Case,0.96
+P90,Asiimov,Covert SMG,Operation Breakout Weapon Case,8.57
+P90,Death by Kitty,Covert SMG,eSports 2013 Case,43.29
+P90,Nostalgia,Classified SMG,CS20 Case,5.22
+P90,Shallow Grave,Classified SMG,Glove Case,1.69
+P90,Shapewood,Classified SMG,Revolver Case,1.73
+P90,Trigon,Classified SMG,Operation Phoenix Weapon Case,8.81
+P90,Cold Blooded,Classified SMG,CS:GO Weapon Case 2,1.34
+P90,Emerald Dragon,Classified SMG,Operation Bravo Case,107.22
+P90,Neoqueen,Restricted SMG,Revolution Case,0.42
+P90,Vent Rush,Restricted SMG,Recoil Case,0.53
+P90,Death Grip,Restricted SMG,Operation Hydra Case,7.19
+P90,Chopper,Restricted SMG,Gamma Case,0.5
+P90,Virus,Restricted SMG,eSports 2014 Summer Case,1.62
+P90,Blind Spot,Restricted SMG,eSports 2013 Winter Case,8.99
+P90,Cocoa Rampage,Mil-Spec SMG,Operation Broken Fang Case,0.54
+P90,Freight,Mil-Spec SMG,Fracture Case,0.07
+P90,Off World,Mil-Spec SMG,Prisma Case,0.12
+P90,Traction,Mil-Spec SMG,Horizon Case,0.15
+P90,Grim,Mil-Spec SMG,Gamma 2 Case,0.1
+P90,Elite Build,Mil-Spec SMG,Falchion Case,0.23
+P90,Module,Mil-Spec SMG,Huntsman Weapon Case,2.73
+P90,Desert Warfare,Mil-Spec SMG,The Huntsman Collection,2.69
+UMP-45,Wild Child,Classified SMG,Revolution Case,2.73
+UMP-45,Momentum,Classified SMG,Danger Zone Case,3.34
+UMP-45,Primal Saber,Classified SMG,Chroma 3 Case,2.18
+UMP-45,Gold Bismuth,Restricted SMG,Operation Broken Fang Case,2.79
+UMP-45,Plastique,Restricted SMG,CS20 Case,0.66
+UMP-45,Moonrise,Restricted SMG,Prisma Case,0.28
+UMP-45,Arctic Wolf,Restricted SMG,Clutch Case,0.29
+UMP-45,Exposure,Restricted SMG,Spectrum 2 Case,0.37
+UMP-45,Scaffold,Restricted SMG,Spectrum Case,1.49
+UMP-45,Grand Prix,Restricted SMG,Chroma 2 Case,0.35
+UMP-45,Roadblock,Mil-Spec SMG,Recoil Case,0.07
+UMP-45,Oscillator,Mil-Spec SMG,Snakebite Case,0.09
+UMP-45,Metal Flowers,Mil-Spec SMG,Operation Hydra Case,3.22
+UMP-45,Briefing,Mil-Spec SMG,Gamma 2 Case,0.09
+UMP-45,Riot,Mil-Spec SMG,Falchion Case,0.25
+UMP-45,Delusion,Mil-Spec SMG,Operation Vanguard Weapon Case,0.4
+UMP-45,Labyrinth,Mil-Spec SMG,Operation Breakout Weapon Case,0.08
+UMP-45,Corporal,Mil-Spec SMG,Operation Phoenix Weapon Case,0.24
+UMP-45,Bone Pile,Mil-Spec SMG,Operation Bravo Case,8.81
+MAG-7,Justice,Classified Shotgun,Prisma 2 Case,2.39
+MAG-7,BI83 Spectrum,Restricted Shotgun,Operation Riptide Case,0.74
+MAG-7,Monster Call,Restricted Shotgun,Fracture Case,0.4
+MAG-7,SWAG-7,Restricted Shotgun,Clutch Case,0.31
+MAG-7,Petroglyph,Restricted Shotgun,Gamma 2 Case,0.31
+MAG-7,Praetorian,Restricted Shotgun,Operation Wildfire Case,2.48
+MAG-7,Heat,Restricted Shotgun,Chroma 2 Case,0.34
+MAG-7,Insomnia,Mil-Spec Shotgun,Revolution Case,0.08
+MAG-7,Foresight,Mil-Spec Shotgun,Dreams & Nightmares Case,0.07
+MAG-7,Popdog,Mil-Spec Shotgun,CS20 Case,0.15
+MAG-7,Hard Water,Mil-Spec Shotgun,Operation Hydra Case,3.68
+MAG-7,Sonar,Mil-Spec Shotgun,Glove Case,0.09
+MAG-7,Cobalt Core,Mil-Spec Shotgun,Shadow Case,0.16
+MAG-7,Firestarter,Mil-Spec Shotgun,Operation Vanguard Weapon Case,0.39
+MAG-7,Heaven Guard,Mil-Spec Shotgun,Operation Phoenix Weapon Case,0.27
+MAG-7,Memento,Mil-Spec Shotgun,eSports 2013 Case,3.88
+Nova,Hyper Beast,Classified Shotgun,Operation Wildfire Case,15.29
+Nova,Bloomstick,Classified Shotgun,eSports 2014 Summer Case,7.33
+Nova,Antique,Classified Shotgun,Operation Phoenix Weapon Case,10.76
+Nova,Clear Polymer,Restricted Shotgun,Operation Broken Fang Case,2.76
+Nova,Toy Soldier,Restricted Shotgun,Horizon Case,0.8
+Nova,Wild Six,Restricted Shotgun,Clutch Case,0.28
+Nova,Gila,Restricted Shotgun,Glove Case,0.38
+Nova,Koi,Restricted Shotgun,Operation Breakout Weapon Case,0.69
+Nova,Rising Skull,Restricted Shotgun,Winter Offensive Weapon Case,5.45
+Nova,Graphite,Restricted Shotgun,CS:GO Weapon Case 2,1.34
+Nova,Windblown,Mil-Spec Shotgun,Snakebite Case,0.1
+Nova,Plume,Mil-Spec Shotgun,Shattered Web Case,1.08
+Nova,Wood Fired,Mil-Spec Shotgun,Danger Zone Case,0.08
+Nova,Exo,Mil-Spec Shotgun,Gamma Case,0.12
+Nova,Ranger,Mil-Spec Shotgun,Falchion Case,0.27
+Nova,Ghost Camo,Mil-Spec Shotgun,eSports 2013 Winter Case,1.26
+Nova,Tempest,Mil-Spec Shotgun,Operation Bravo Case,7.61
+Sawed-Off,The Kraken,Covert Shotgun,Winter Offensive Weapon Case,5.17
+Sawed-Off,Kiss♥Love,Classified Shotgun,Recoil Case,3.0
+Sawed-Off,Devourer,Classified Shotgun,Horizon Case,3.73
+Sawed-Off,Wasteland Princess,Classified Shotgun,Glove Case,1.61
+Sawed-Off,Apocalypto,Restricted Shotgun,Prisma 2 Case,0.34
+Sawed-Off,Limelight,Restricted Shotgun,Gamma Case,0.46
+Sawed-Off,Serenity,Restricted Shotgun,Chroma Case,1.27
+Sawed-Off,Highwayman,Restricted Shotgun,Operation Vanguard Weapon Case,0.82
+Sawed-Off,Orange DDPAT,Restricted Shotgun,eSports 2013 Case,13.75
+Sawed-Off,Spirit Board,Mil-Spec Shotgun,Dreams & Nightmares Case,0.07
+Sawed-Off,Black Sand,Mil-Spec Shotgun,Danger Zone Case,0.08
+Sawed-Off,Morris,Mil-Spec Shotgun,Spectrum 2 Case,0.09
+Sawed-Off,Zander,Mil-Spec Shotgun,Spectrum Case,0.18
+Sawed-Off,Fubar,Mil-Spec Shotgun,Chroma 3 Case,1.34
+Sawed-Off,Yorick,Mil-Spec Shotgun,Revolver Case,0.09
+Sawed-Off,Origami,Mil-Spec Shotgun,Chroma 2 Case,0.09
+XM1014,XOXO,Classified Shotgun,Snakebite Case,1.53
+XM1014,Entombed,Classified Shotgun,Fracture Case,3.06
+XM1014,Incinegator,Classified Shotgun,Prisma Case,1.61
+XM1014,Tranquility,Classified Shotgun,Operation Vanguard Weapon Case,6.32
+XM1014,Zombie Offensive,Restricted Shotgun,Dreams & Nightmares Case,0.23
+XM1014,Ziggy,Restricted Shotgun,Spectrum 2 Case,0.42
+XM1014,Seasons,Restricted Shotgun,Spectrum Case,1.56
+XM1014,Black Tie,Restricted Shotgun,Chroma 3 Case,0.41
+XM1014,Teclu Burner,Restricted Shotgun,Revolver Case,1.05
+XM1014,Heaven Guard,Restricted Shotgun,Huntsman Weapon Case,6.9
+XM1014,Watchdog,Mil-Spec Shotgun,Operation Riptide Case,0.94
+XM1014,Oxide Blaze,Mil-Spec Shotgun,Clutch Case,0.07
+XM1014,Slipstream,Mil-Spec Shotgun,Gamma 2 Case,0.09
+XM1014,Scumbria,Mil-Spec Shotgun,Shadow Case,0.14
+XM1014,Quicksilver,Mil-Spec Shotgun,Chroma Case,0.2
+XM1014,Red Python,Mil-Spec Shotgun,eSports 2014 Summer Case,2.1
+M249,Downtown,Restricted Machine Gun,Recoil Case,0.53
+M249,Aztec,Restricted Machine Gun,CS20 Case,0.66
+M249,Emerald Poison Dart,Restricted Machine Gun,Spectrum Case,1.38
+M249,Nebula Crusader,Restricted Machine Gun,Shadow Case,1.23
+M249,O.S.I.P.R.,Mil-Spec Machine Gun,Snakebite Case,0.09
+M249,Deep Relief,Mil-Spec Machine Gun,Operation Broken Fang Case,0.55
+M249,Warbird,Mil-Spec Machine Gun,Shattered Web Case,1.03
+M249,Spectre,Mil-Spec Machine Gun,Chroma 3 Case,0.08
+M249,System Lock,Mil-Spec Machine Gun,Chroma Case,0.18
+M249,Magma,Mil-Spec Machine Gun,Winter Offensive Weapon Case,0.93
+Negev,dev_texture,Restricted Machine Gun,Snakebite Case,0.23
+Negev,Lionfish,Restricted Machine Gun,Clutch Case,0.29
+Negev,Power Loader,Restricted Machine Gun,Revolver Case,1.03
+Negev,Loudmouth,Restricted Machine Gun,Falchion Case,0.69
+Negev,Drop Me,Mil-Spec Machine Gun,Recoil Case,0.07
+Negev,Ultralight,Mil-Spec Machine Gun,Fracture Case,0.07
+Negev,Prototype,Mil-Spec Machine Gun,Prisma 2 Case,0.07
+Negev,Dazzle,Mil-Spec Machine Gun,Gamma 2 Case,0.09
+Negev,Man-o'-war,Mil-Spec Machine Gun,Chroma 2 Case,0.11
+Negev,Bratatat,Mil-Spec Machine Gun,eSports 2014 Summer Case,2.08
+Negev,Desert-Strike,Mil-Spec Machine Gun,Operation Breakout Weapon Case,0.09
+Negev,Terrain,Mil-Spec Machine Gun,Operation Phoenix Weapon Case,0.25
+AK-47,Head Shot,Covert Rifle,Revolution Case,18.51
+AK-47,Nightwish,Covert Rifle,Dreams & Nightmares Case,12.12
+AK-47,Leet Museo,Covert Rifle,Operation Riptide Case,17.75
+AK-47,Legion of Anubis,Covert Rifle,Fracture Case,7.66
+AK-47,Asiimov,Covert Rifle,Danger Zone Case,28.93
+AK-47,Neon Rider,Covert Rifle,Horizon Case,35.2
+AK-47,The Empress,Covert Rifle,Spectrum 2 Case,33.71
+AK-47,Bloodsport,Covert Rifle,Spectrum Case,99.74
+AK-47,Neon Revolution,Covert Rifle,Gamma 2 Case,15.35
+AK-47,Fuel Injector,Covert Rifle,Operation Wildfire Case,178.2
+AK-47,Aquamarine Revenge,Covert Rifle,Falchion Case,31.97
+AK-47,Wasteland Rebel,Covert Rifle,Operation Vanguard Weapon Case,26.39
+AK-47,Jaguar,Covert Rifle,eSports 2014 Summer Case,37.26
+AK-47,Vulcan,Covert Rifle,Huntsman Weapon Case,267.67
+AK-47,Fire Serpent,Covert Rifle,Operation Bravo Case,1.34
+AK-47,Ice Coaled,Classified Rifle,Recoil Case,7.27
+AK-47,Phantom Disruptor,Classified Rifle,Prisma 2 Case,4.06
+AK-47,Point Disarray,Classified Rifle,Revolver Case,9.4
+AK-47,Frontside Misty,Classified Rifle,Shadow Case,12.69
+AK-47,Cartel,Classified Rifle,Chroma Case,8.2
+AK-47,Redline,Classified Rifle,Operation Phoenix Weapon Case,17.87
+AK-47,Case Hardened,Classified Rifle,CS:GO Weapon Case,284.75
+AK-47,Red Laminate,Classified Rifle,eSports 2013 Case,42.0
+AK-47,Slate,Restricted Rifle,Snakebite Case,2.12
+AK-47,Rat Rod,Restricted Rifle,Shattered Web Case,3.25
+AK-47,Orbit Mk01,Restricted Rifle,Operation Hydra Case,10.92
+AK-47,Blue Laminate,Restricted Rifle,eSports 2013 Winter Case,9.78
+AK-47,Uncharted,Mil-Spec Rifle,Prisma Case,0.25
+AK-47,Elite Build,Mil-Spec Rifle,Chroma 2 Case,1.04
+AUG,Chameleon,Covert Rifle,Operation Phoenix Weapon Case,3.01
+AUG,Death by Puppy,Classified Rifle,CS20 Case,5.31
+AUG,Momentum,Classified Rifle,Prisma Case,1.79
+AUG,Stymphalian,Classified Rifle,Clutch Case,1.5
+AUG,Syd Mead,Classified Rifle,Gamma 2 Case,1.61
+AUG,Fleet Flock,Classified Rifle,Chroma 3 Case,2.25
+AUG,Bengal Tiger,Classified Rifle,eSports 2014 Summer Case,5.4
+AUG,Arctic Wolf,Restricted Rifle,Shattered Web Case,1.84
+AUG,Aristocrat,Restricted Rifle,Gamma Case,0.5
+AUG,Torque,Restricted Rifle,Huntsman Weapon Case,7.85
+AUG,Plague,Mil-Spec Rifle,Operation Riptide Case,0.39
+AUG,Tom Cat,Mil-Spec Rifle,Prisma 2 Case,0.08
+AUG,Amber Slipstream,Mil-Spec Rifle,Horizon Case,0.14
+AUG,Triqua,Mil-Spec Rifle,Spectrum 2 Case,0.08
+AUG,Ricochet,Mil-Spec Rifle,Revolver Case,0.09
+AUG,Wings,Mil-Spec Rifle,CS:GO Weapon Case,1.34
+AWP,Chromatic Aberration,Covert Sniper Rifle,Recoil Case,8.11
+AWP,Containment Breach,Covert Sniper Rifle,Shattered Web Case,93.09
+AWP,Wildfire,Covert Sniper Rifle,CS20 Case,56.0
+AWP,Neo-Noir,Covert Sniper Rifle,Danger Zone Case,23.47
+AWP,Oni Taiji,Covert Sniper Rifle,Operation Hydra Case,336.76
+AWP,Hyper Beast,Covert Sniper Rifle,Falchion Case,33.0
+AWP,Man-o'-war,Covert Sniper Rifle,Chroma Case,35.55
+AWP,Asiimov,Covert Sniper Rifle,Operation Phoenix Weapon Case,154.99
+AWP,Lightning Strike,Covert Sniper Rifle,CS:GO Weapon Case,1.34
+AWP,Duality,Classified Sniper Rifle,Revolution Case,4.05
+AWP,Mortis,Classified Sniper Rifle,Clutch Case,1.54
+AWP,Fever Dream,Classified Sniper Rifle,Spectrum Case,8.1
+AWP,Elite Build,Classified Sniper Rifle,Operation Wildfire Case,14.65
+AWP,Corticera,Classified Sniper Rifle,eSports 2014 Summer Case,13.22
+AWP,Redline,Classified Sniper Rifle,Winter Offensive Weapon Case,39.0
+AWP,Electric Hive,Classified Sniper Rifle,eSports 2013 Winter Case,33.52
+AWP,Graphite,Classified Sniper Rifle,Operation Bravo Case,1.34
+AWP,BOOM,Classified Sniper Rifle,eSports 2013 Case,92.83
+AWP,Exoskeleton,Restricted Sniper Rifle,Operation Broken Fang Case,2.66
+AWP,Atheris,Restricted Sniper Rifle,Prisma Case,2.41
+AWP,PAW,Restricted Sniper Rifle,Horizon Case,1.3
+AWP,Phobos,Restricted Sniper Rifle,Gamma Case,0.86
+AWP,Worm God,Restricted Sniper Rifle,Chroma 2 Case,1.32
+AWP,Capillary,Mil-Spec Sniper Rifle,Prisma 2 Case,0.14
+FAMAS,Commemoration,Covert Rifle,CS20 Case,12.36
+FAMAS,Roll Cage,Covert Rifle,Gamma 2 Case,2.89
+FAMAS,Rapid Eye Movement,Classified Rifle,Dreams & Nightmares Case,1.44
+FAMAS,Eye of Athena,Classified Rifle,Horizon Case,4.02
+FAMAS,Mecha Industries,Classified Rifle,Glove Case,3.36
+FAMAS,Djinn,Classified Rifle,Chroma 2 Case,2.61
+FAMAS,Afterimage,Classified Rifle,eSports 2013 Winter Case,29.0
+FAMAS,ZX Spectron,Restricted Rifle,Operation Riptide Case,1.4
+FAMAS,Valence,Restricted Rifle,Operation Wildfire Case,2.38
+FAMAS,Neural Net,Restricted Rifle,Falchion Case,0.7
+FAMAS,Sergeant,Restricted Rifle,Operation Phoenix Weapon Case,2.2
+FAMAS,Pulse,Restricted Rifle,Winter Offensive Weapon Case,5.77
+FAMAS,Meow 36,Mil-Spec Rifle,Recoil Case,0.08
+FAMAS,Decommissioned,Mil-Spec Rifle,CS20 Case,0.15
+FAMAS,Crypsis,Mil-Spec Rifle,Prisma Case,0.13
+FAMAS,Macabre,Mil-Spec Rifle,Operation Hydra Case,4.0
+FAMAS,Survivor Z,Mil-Spec Rifle,Shadow Case,0.15
+FAMAS,Hexane,Mil-Spec Rifle,CS:GO Weapon Case 2,5.25
+FAMAS,Doomkitty,Mil-Spec Rifle,eSports 2013 Case,3.95
+G3SG1,The Executioner,Classified Sniper Rifle,Revolver Case,1.65
+G3SG1,Flux,Classified Sniper Rifle,Shadow Case,7.72
+G3SG1,Dream Glade,Restricted Sniper Rifle,Dreams & Nightmares Case,0.23
+G3SG1,Scavenger,Restricted Sniper Rifle,Danger Zone Case,0.48
+G3SG1,High Seas,Restricted Sniper Rifle,Horizon Case,0.78
+G3SG1,Stinger,Restricted Sniper Rifle,Glove Case,0.36
+G3SG1,Keeping Tabs,Mil-Spec Sniper Rifle,Operation Riptide Case,0.37
+G3SG1,Digital Mesh,Mil-Spec Sniper Rifle,Operation Broken Fang Case,0.52
+G3SG1,Black Sand,Mil-Spec Sniper Rifle,Shattered Web Case,1.1
+G3SG1,Hunter,Mil-Spec Sniper Rifle,Spectrum 2 Case,0.09
+G3SG1,Ventilator,Mil-Spec Sniper Rifle,Gamma 2 Case,0.08
+G3SG1,Orange Crash,Mil-Spec Sniper Rifle,Chroma 3 Case,0.08
+G3SG1,Murky,Mil-Spec Sniper Rifle,Operation Vanguard Weapon Case,0.46
+G3SG1,Azure Zebra,Mil-Spec Sniper Rifle,eSports 2013 Winter Case,1.45
+G3SG1,Demeter,Mil-Spec Sniper Rifle,Operation Bravo Case,8.05
+Galil AR,Chatterbox,Covert Rifle,Chroma Case,79.95
+Galil AR,Chromatic Aberration,Classified Rifle,Snakebite Case,1.78
+Galil AR,Sugar Rush,Classified Rifle,Operation Hydra Case,49.33
+Galil AR,Eco,Classified Rifle,Chroma 2 Case,4.33
+Galil AR,Connexion,Restricted Rifle,Fracture Case,0.37
+Galil AR,Signal,Restricted Rifle,Danger Zone Case,0.5
+Galil AR,Crimson Tsunami,Restricted Rifle,Spectrum Case,1.47
+Galil AR,Firefight,Restricted Rifle,Chroma 3 Case,0.36
+Galil AR,Stone Cold,Restricted Rifle,Shadow Case,1.54
+Galil AR,Orange DDPAT,Restricted Rifle,eSports 2013 Case,13.5
+Galil AR,Destroyer,Mil-Spec Rifle,Recoil Case,0.08
+Galil AR,Vandal,Mil-Spec Rifle,Operation Broken Fang Case,0.53
+Galil AR,Akoben,Mil-Spec Rifle,Prisma Case,0.16
+Galil AR,Black Sand,Mil-Spec Rifle,Glove Case,0.1
+Galil AR,Rocket Pop,Mil-Spec Rifle,Falchion Case,0.96
+Galil AR,Kami,Mil-Spec Rifle,Huntsman Weapon Case,2.57
+Galil AR,Blue Titanium,Mil-Spec Rifle,eSports 2013 Winter Case,1.34
+Galil AR,Sandstorm,Mil-Spec Rifle,Winter Offensive Weapon Case,1.0
+Galil AR,Shattered,Mil-Spec Rifle,Operation Bravo Case,7.59
+M4A1-S,Printstream,Covert Rifle,Operation Broken Fang Case,188.79
+M4A1-S,Player Two,Covert Rifle,Prisma 2 Case,24.73
+M4A1-S,Mecha Industries,Covert Rifle,Gamma Case,30.07
+M4A1-S,Chantico's Fire,Covert Rifle,Chroma 3 Case,25.56
+M4A1-S,Golden Coil,Covert Rifle,Shadow Case,59.98
+M4A1-S,Hyper Beast,Covert Rifle,Chroma 2 Case,23.54
+M4A1-S,Cyrex,Covert Rifle,Operation Breakout Weapon Case,18.8
+M4A1-S,Nightmare,Classified Rifle,Horizon Case,9.98
+M4A1-S,Leaded Glass,Classified Rifle,Spectrum 2 Case,4.72
+M4A1-S,Decimator,Classified Rifle,Spectrum Case,13.0
+M4A1-S,Atomic Alloy,Classified Rifle,Huntsman Weapon Case,36.65
+M4A1-S,Guardian,Classified Rifle,Winter Offensive Weapon Case,20.41
+M4A1-S,Emphorosaur-S,Restricted Rifle,Revolution Case,0.69
+M4A1-S,Night Terror,Restricted Rifle,Dreams & Nightmares Case,0.47
+M4A1-S,Flashback,Restricted Rifle,Glove Case,0.48
+M4A1-S,Basilisk,Restricted Rifle,Operation Vanguard Weapon Case,5.37
+M4A1-S,Bright Water,Restricted Rifle,Operation Bravo Case,27.11
+M4A1-S,Dark Water,Restricted Rifle,CS:GO Weapon Case,72.0
+M4A1-S,Briefing,Mil-Spec Rifle,Operation Hydra Case,3.26
+M4A1-S,Blood Tiger,Mil-Spec Rifle,CS:GO Weapon Case 2,5.55
+M4A4,Howl,Contraband Rifle,,1.34
+M4A4,Temukau,Covert Rifle,Revolution Case,22.66
+M4A4,In Living Color,Covert Rifle,Snakebite Case,6.06
+M4A4,The Emperor,Covert Rifle,Prisma Case,13.89
+M4A4,Neo-Noir,Covert Rifle,Clutch Case,6.01
+M4A4,Buzz Kill,Covert Rifle,Glove Case,9.23
+M4A4,The Battlestar,Covert Rifle,Operation Wildfire Case,4.37
+M4A4,Royal Paladin,Covert Rifle,Revolver Case,6.82
+M4A4,Bullet Rain,Covert Rifle,eSports 2014 Summer Case,15.27
+M4A4,Desert-Strike,Covert Rifle,Huntsman Weapon Case,4.02
+M4A4,Asiimov,Covert Rifle,Winter Offensive Weapon Case,162.75
+M4A4,X-Ray,Covert Rifle,eSports 2013 Winter Case,15.07
+M4A4,Cyber Security,Classified Rifle,Operation Broken Fang Case,17.49
+M4A4,Tooth Fairy,Classified Rifle,Fracture Case,2.96
+M4A4,Hellfire,Classified Rifle,Operation Hydra Case,46.61
+M4A4,Desolate Space,Classified Rifle,Gamma Case,6.03
+M4A4,龍王 (Dragon King),Classified Rifle,Chroma Case,7.62
+M4A4,Spider Lily,Restricted Rifle,Operation Riptide Case,2.91
+M4A4,Evil Daimyo,Restricted Rifle,Falchion Case,1.96
+M4A4,Griffin,Restricted Rifle,Operation Vanguard Weapon Case,1.9
+M4A4,Zirka,Restricted Rifle,Operation Bravo Case,27.0
+M4A4,Poly Mag,Mil-Spec Rifle,Recoil Case,0.08
+M4A4,Magnesium,Mil-Spec Rifle,Danger Zone Case,0.17
+M4A4,Faded Zebra,Mil-Spec Rifle,eSports 2013 Case,3.45
+SCAR-20,Bloodsport,Classified Sniper Rifle,Gamma Case,2.94
+SCAR-20,Cardiac,Classified Sniper Rifle,Operation Vanguard Weapon Case,4.05
+SCAR-20,Cyrex,Classified Sniper Rifle,Huntsman Weapon Case,42.04
+SCAR-20,Enforcer,Restricted Sniper Rifle,Prisma 2 Case,0.37
+SCAR-20,Powercore,Restricted Sniper Rifle,Gamma 2 Case,0.29
+SCAR-20,Fragments,Mil-Spec Sniper Rifle,Revolution Case,0.09
+SCAR-20,Poultrygeist,Mil-Spec Sniper Rifle,Dreams & Nightmares Case,0.07
+SCAR-20,Torn,Mil-Spec Sniper Rifle,Shattered Web Case,1.07
+SCAR-20,Assault,Mil-Spec Sniper Rifle,CS20 Case,0.14
+SCAR-20,Jungle Slipstream,Mil-Spec Sniper Rifle,Spectrum 2 Case,0.08
+SCAR-20,Blueprint,Mil-Spec Sniper Rifle,Spectrum Case,0.18
+SCAR-20,Outbreak,Mil-Spec Sniper Rifle,Revolver Case,0.09
+SCAR-20,Green Marine,Mil-Spec Sniper Rifle,Shadow Case,0.14
+SCAR-20,Grotto,Mil-Spec Sniper Rifle,Chroma Case,0.2
+SCAR-20,Crimson Web,Mil-Spec Sniper Rifle,CS:GO Weapon Case 2,5.37
+SG 553,Colony IV,Classified Rifle,Shattered Web Case,8.78
+SG 553,Cyrex,Classified Rifle,Falchion Case,4.64
+SG 553,Dragon Tech,Restricted Rifle,Recoil Case,0.53
+SG 553,Darkwing,Restricted Rifle,Prisma 2 Case,0.37
+SG 553,Phantom,Restricted Rifle,Spectrum 2 Case,0.38
+SG 553,Triarch,Restricted Rifle,Gamma 2 Case,0.28
+SG 553,Tiger Moth,Restricted Rifle,Revolver Case,0.73
+SG 553,Pulse,Restricted Rifle,Operation Phoenix Weapon Case,2.31
+SG 553,Cyberforce,Mil-Spec Rifle,Revolution Case,0.08
+SG 553,Heavy Metal,Mil-Spec Rifle,Snakebite Case,0.09
+SG 553,Ol' Rusty,Mil-Spec Rifle,Fracture Case,0.07
+SG 553,Danger Close,Mil-Spec Rifle,Danger Zone Case,0.08
+SG 553,Aloha,Mil-Spec Rifle,Clutch Case,0.07
+SG 553,Aerial,Mil-Spec Rifle,Gamma Case,0.11
+SG 553,Atlas,Mil-Spec Rifle,Chroma 3 Case,0.08
+SG 553,Wave Spray,Mil-Spec Rifle,Operation Bravo Case,8.22
+SG 553,Ultraviolet,Mil-Spec Rifle,CS:GO Weapon Case,20.09
+SSG 08,Dragonfire,Covert Sniper Rifle,Glove Case,12.07
+SSG 08,Blood in the Water,Covert Sniper Rifle,CS:GO Weapon Case 2,50.0
+SSG 08,Turbo Peek,Classified Sniper Rifle,Operation Riptide Case,5.1
+SSG 08,Bloodshot,Classified Sniper Rifle,Shattered Web Case,8.24
+SSG 08,Big Iron,Classified Sniper Rifle,Shadow Case,7.59
+SSG 08,Parallax,Restricted Sniper Rifle,Operation Broken Fang Case,2.76
+SSG 08,Fever Dream,Restricted Sniper Rifle,Prisma 2 Case,0.37
+SSG 08,Death's Head,Restricted Sniper Rifle,Operation Hydra Case,7.7
+SSG 08,Ghost Crusader,Restricted Sniper Rifle,Chroma 3 Case,0.52
+SSG 08,Mainframe 001,Mil-Spec Sniper Rifle,Fracture Case,0.07
+SSG 08,Necropos,Mil-Spec Sniper Rifle,Operation Wildfire Case,0.58
+SSG 08,Dark Water,Mil-Spec Sniper Rifle,eSports 2014 Summer Case,2.12
+SSG 08,Abyss,Mil-Spec Sniper Rifle,Operation Breakout Weapon Case,0.23
+SSG 08,Slashed,Mil-Spec Sniper Rifle,Huntsman Weapon Case,2.67

@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css')}}">
+    <title>Task</title>
+</head>
+<body>
+<h1>Таблицы БД</h1>
+
+<h2>Предметы</h2>
+<table>
+<tr>
+{% for col in weapon_columns %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in weapons %}
+<tr>
+{% for col in weapon_columns %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h2>Редкости</h2>
+<table>
+<tr>
+{% for col in weapon_rarities %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in rarities %}
+<tr>
+{% for col in weapon_rarities %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h2>Коллекции</h2>
+<table>
+<tr>
+{% for col in weapon_cases %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in cases %}
+<tr>
+{% for col in weapon_cases %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h2>Расцветки</h2>
+<table>
+<tr>
+{% for col in weapon_skins %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in skins %}
+<tr>
+{% for col in weapon_skins %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h2>Цены на предметы</h2>
+<table>
+<tr>
+{% for col in weapon_prices %}
+<th>{{ col }}</th>
+{% endfor %}
+</tr>
+{% for row in prices %}
+<tr>
+{% for col in weapon_prices %}
+<td>{{ row|attr(col) }}</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<hr>
+
+
+</body>
+</html>
