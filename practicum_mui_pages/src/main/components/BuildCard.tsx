@@ -27,7 +27,10 @@ function BuildCard({ building, index }: ComponentProps) {
     <Card
       sx={{
         display: 'flex',
-        flexDirection: index % 2 === 0 ? 'row' : 'row-reverse',
+                flexDirection: {
+          xs: 'column',
+          md: index % 2 === 0 ? 'row' : 'row-reverse',
+        },
       }}
     >
       <CardMedia

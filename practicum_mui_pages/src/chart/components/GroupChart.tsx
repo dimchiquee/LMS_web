@@ -36,22 +36,21 @@ function GroupChart({ data }: ChartProps) {
     yAxis: [{ label: 'Высота (м)' }],
     height: 400,
   };
+  const isSingleSeries = seriesY.length === 1;
 
   return (
     <Container maxWidth="lg">
 
-      <SettingChart
-        series={series}
-        setSeries={setSeries}
-        isBar={isBar}
-        setIsBar={setIsBar}
-      />
+
 
       {isBar ? (
         <BarChart
           dataset={data}
           xAxis={[{ scaleType: 'band', dataKey: 'Группа' }]}
-          series={seriesY}
+          series={seriesY.map(seriesItem => ({
+            ...seriesItem,
+            ...(isSingleSeries && { barLabel: "value" }),
+          }))}
           slotProps={{
             legend: {
               position: { vertical: 'bottom', horizontal: 'center' },
@@ -63,7 +62,10 @@ function GroupChart({ data }: ChartProps) {
         <LineChart
           dataset={data}
           xAxis={[{ scaleType: 'band', dataKey: 'Группа' }]}
-          series={seriesY}
+          series={seriesY.map(seriesItem => ({
+            ...seriesItem,
+            showMark: true,
+          }))}
           slotProps={{
             legend: {
               position: { vertical: 'bottom', horizontal: 'center' },
@@ -72,7 +74,12 @@ function GroupChart({ data }: ChartProps) {
           {...chartSetting}
         />
       )}
-
+      <SettingChart
+        series={series}
+        setSeries={setSeries}
+        isBar={isBar}
+        setIsBar={setIsBar}
+      />
     </Container>
   );
 }

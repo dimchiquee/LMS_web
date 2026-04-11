@@ -23,17 +23,17 @@ function Gallery() {
  }}
  gap={8}>
 {imgData.map((item, index) => (
+<Link to={"/building/" + index}>
   <ImageListItem key={item.img}>
-    <Link to={"/building/" + index}>
       <img
         srcSet={item.img}
         src={item.img}
         alt={item.title}
         loading="lazy"
       />
-    </Link>
     <ImageListItemBar position="bottom" title={item.title} />
   </ImageListItem>
+  </Link>
 ))}
         </ImageList>
         </Box>

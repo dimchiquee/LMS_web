@@ -18,7 +18,6 @@ function GroupGrid({ data }: GroupProps) {
   return (
     <Container maxWidth="lg" sx={{height: '700px', mt: '20px'}}>
       <DataGrid
-      showToolbar={true}
         rows={data}
         columns={columns}
         getRowId={(row) => row.id}
