@@ -56,7 +56,7 @@ function Navbar({ active }: ComponentProps) {
           </Typography>
 
           <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
-          <Link to="/">
+          <Link to="/" style={{ textDecoration: 'none' }}>
             <Button
               variant={active === '1' ? 'contained' : 'text'}
               color="info"
@@ -65,7 +65,7 @@ function Navbar({ active }: ComponentProps) {
               Главная
             </Button>
             </Link>
-            <Link to="/list">
+            <Link to="/list" style={{ textDecoration: 'none' }}>
             <Button
               variant={active === '2' ? 'contained' : 'text'}
               color="info"
@@ -81,6 +81,15 @@ function Navbar({ active }: ComponentProps) {
               size="medium"
             >
               Диаграммы
+            </Button>
+            </Link>
+            <Link to="/testing" style={{ textDecoration: 'none' }}>
+            <Button
+              variant={active === '4' ? 'contained' : 'text'}
+              color="info"
+              size="medium"
+            >
+              Проверь себя
             </Button>
             </Link>
           </Box>
@@ -133,6 +142,15 @@ function Navbar({ active }: ComponentProps) {
                     sx={menuItemStyle}
                   >
                     Диаграммы
+                  </MenuItem>
+                  </Link>
+                  <Link to="/testing">
+                  <MenuItem
+                    selected={active === '4'}
+                    onClick={toggleDrawer(false)}
+                    sx={menuItemStyle}
+                  >
+                    Проверь себя
                   </MenuItem>
                   </Link>
                 </MenuList>
